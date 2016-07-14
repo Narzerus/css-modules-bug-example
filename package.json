@@ -9,12 +9,10 @@
   },
   "cssModules": {
     "extensions": [
-      "scss",
-      "sass"
+      "scss"
     ],
     "enableSassCompilation": [
-      "scss",
-      "sass"
+      "scss"
     ]
   }
 }
